@@ -2,7 +2,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/therxcoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=therxcoder)
 [![Instagram click here!](https://i.ibb.co/883zKrm/RAHUL2.png)](https://instagram.com/rxcoder)
 
-## I'm a Student, Lover ❤, Developer 🐱‍💻, and a Overthinker 😓!!
+## I'm a Student, Lover ❤, Developer 👨‍💻, and a Overthinker 😓!!
 
 - 🔭 Finding a Job to Land My Plane.
 - 🌱 I’m currently learning everything 🤣
