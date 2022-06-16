@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul KP - aka [rxcoder] 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/therxcoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=therxcoder)
-[![Instagram click here!](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://instagram.com/rxcoder)
+[![Instagram click here!](https://i.ibb.co/883zKrm/RAHUL2.png)](https://instagram.com/rxcoder)
 
 ## I'm a Student, Lover ❤, Developer 🐱‍👤, and a Overthinker 😓!!
 
