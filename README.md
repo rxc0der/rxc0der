@@ -43,3 +43,6 @@
 [twitter]: https://twitter.com/therxcoder
 [instagram]: https://instagram.com/rxcoder
 [linkedin]: https://linkedin.com/in/
+
+## Contribution:🤡
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
