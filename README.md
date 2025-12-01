@@ -1,7 +1,27 @@
-# 💫 About Me:      
-<img align="right" src="IMG_20251201_234703.png" width="150" />
+ <img align="right" src="IMG_20251201_234703.png" width="150" />
+# 👋 Hey, I'm AKA rxcoder
 
-💡 What I’m into<br><br>Writing better code every day<br>Exploring new tech just for the thrill of it<br>Turning ideas into something that actually runs<br><br>🚀 My vibe<br>Stay curious. Stay consistent. Ship more. Talk less.
+## 💫 About Me  
+A calm learner with a sharp mind, building myself one commit at a time.  
+I love exploring tech, experimenting with ideas, and watching them turn into something real.  
+Low noise, high focus, consistent grind.  
+
+---
+
+## 🔥 What I’m Into  
+- 💻 Writing cleaner, smarter code  
+- ⚙️ Trying out new tech stacks  
+- 🚀 Building and shipping mini-projects  
+- 🧩 Solving problems because it feels satisfying  
+
+---
+
+## ⚡ My Dev Vibe  
+- 🌱 Stay Curious  
+- 🎯 Stay Consistent  
+- ⏳ Improve Daily  
+- 📦 Ship Fast  
+- 🔇 Talk Less, Build More  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
