@@ -1,4 +1,4 @@
- <img align="right" src="IMG_20251201_234703.png" width="150" />
+<img width="1000" height="283" alt="image" src="rxcoder.png" />
 # 👋 Hey, I'm AKA rxcoder
 
 ## 💫 About Me  
