@@ -1,48 +1,24 @@
-# Hi there, I'm Rahul KP - aka [rxcoder] 👋 
-[![Twitter Follow](https://img.shields.io/twitter/follow/therxcoder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=therxcoder)
-[![Instagram click here!](https://i.ibb.co/883zKrm/RAHUL2.png)](https://instagram.com/rxcoder)
+# 💫 About Me:
+💡 What I’m into<br><br>Writing better code every day<br>Exploring new tech just for the thrill of it<br>Turning ideas into something that actually runs<br><br>🚀 My vibe<br>Stay curious. Stay consistent. Ship more. Talk less.
 
-## I'm a Student, Lover ❤, Developer 👨‍💻, and a Overthinker 😓!!
 
-- 🔭 Finding a Job to Land My Plane.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to have more frnds to create a team
-- 🥅 2023 Goals: Learn something in the Blockchain space
-- ⚡ Fun fact: I love to play guitar and Being Introvert
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rxcoder) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rxcoder) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/rxcoder) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulkp784@gmail.com) 
 
-### Connect with me:
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rxc0der&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rxc0der&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rxc0der&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-[![website](./twitter-dark.svg)](https://twitter.com/therxcoder#gh-light-mode-only)
-[![website](./twitter-dark.svg)](https://twitter.com/therxcoder#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./linkedin-light.svg)](https://linkedin.com/in/#gh-light-mode-only)
-[![website](./linkedin-dark.svg)](https://linkedin.com/in/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./instagram-light.svg)](https://instagram.com/rxcoder#gh-light-mode-only)
-[![website](./instagram-dark.svg)](https://instagram.com/rxcoder#gh-dark-mode-only)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Languages and Tools:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=rxc0der&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://www.svgrepo.com/show/303388/java-4-logo.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<br />
-<br />
-<details>
-  <summary>:zap: GitHub Stats</summary>
+---
+[![](https://visitcount.itsvg.in/api?id=rxc0der&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  <img align="left" alt="rxcoder's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rxc0der&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-</details>
-
-[twitter]: https://twitter.com/therxcoder
-[instagram]: https://instagram.com/rxcoder
-[linkedin]: https://linkedin.com/in/
-
-## Contribution:🤡
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
