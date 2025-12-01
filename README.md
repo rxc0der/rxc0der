@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 About Me:      
+<img align="right" src="YOUR_IMAGE_LINK" width="250" />
+
 💡 What I’m into<br><br>Writing better code every day<br>Exploring new tech just for the thrill of it<br>Turning ideas into something that actually runs<br><br>🚀 My vibe<br>Stay curious. Stay consistent. Ship more. Talk less.
 
 
